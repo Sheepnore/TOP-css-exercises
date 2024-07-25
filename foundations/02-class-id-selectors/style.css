@@ -1,0 +1,21 @@
+.para {
+  font-family: Verdana,sans-serif;
+  color: rgb(1,1,1);
+  background-color: pink;
+}
+#two{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-size: 36px;
+}
+
+.para.bigger{
+  font-size: 24px;
+}
+
+#four{
+  background-color: lightgreen;
+  font-weight: bold;
+  color: black;
+  font-size: 24px;
+}
