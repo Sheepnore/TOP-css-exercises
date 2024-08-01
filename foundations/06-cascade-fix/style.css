@@ -29,7 +29,12 @@ body {
   font-size: 20px;
 }
 
-/* select all elements that has both `text` and `child` class */
+div.text{
+  color: rgb(0, 0, 0);
+  font-weight: 100;
+  font-size: 22px;
+}
+
 
 div .child {
   color: rgb(0, 0, 0);
@@ -37,12 +42,4 @@ div .child {
   font-size: 14px;
 }
 
-
-/* div element that contains a 'text' class */
- 
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
-} 
 
